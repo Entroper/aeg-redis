@@ -1,6 +1,6 @@
 {
   "name": "@adexchange/aeg-redis",
-  "version": "0.0.1",
+  "version": "0.0.165",
   "description": "Redis client",
   "main": "lib/index.js",
   "types": "./lib/index.d.ts",
